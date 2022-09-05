@@ -2,9 +2,6 @@
 
 Binary tree in language C with binary search and ordering algorithms
 
-``Binary search
+Binary search
 
-``Ordering fuctions
-  `inorder_traversal
-  `postorder_traversal
-  `preorder_travelsal
+Sorting algorithms - inorder_traversal, postorder_traversal, preorder_travelsal
